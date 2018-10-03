@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('Hello there.') {
+    stage('PULL REQUEST ME YO') {
       steps {
-        echo 'Hi'
+        echo 'PR, PR, PR'
       }
     }
   }
